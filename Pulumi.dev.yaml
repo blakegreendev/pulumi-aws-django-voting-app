@@ -1,0 +1,13 @@
+config:
+  aws-django-voting-app:django-admin-name: admin
+  aws-django-voting-app:django-admin-password:
+    secure: AAABAG5gb8QPXGsg9A9xEv7CzoTUNF6KC6tJqJSGJOJnkClsqA==
+  aws-django-voting-app:django_secret_key:
+    secure: AAABAP9seEdSz7Y9s4YMtT0f7Rh1LxBz69S9CjlngkXkBVQh3A==
+  aws-django-voting-app:sql-admin-name: admin
+  aws-django-voting-app:sql-admin-password:
+    secure: AAABAHjAzGQNRT+d9WSvR3vPWlItC1O77qJLUiiV4L9qwNox8g==
+  aws-django-voting-app:sql-user-name: admin
+  aws-django-voting-app:sql-user-password:
+    secure: AAABAO94yBNAFAdIlmH0PmJSmQb+B21j/J30cW05VKkZaTz/og==
+  aws:region: us-west-2
