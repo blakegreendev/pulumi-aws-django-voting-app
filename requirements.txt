@@ -3,3 +3,4 @@ pulumi-aws>=2.0.0,<3.0.0
 pulumi-docker>=2.0.0,<3.0.0
 pulumi-mysql>=2.0.0,<3.0.0
 mysql-connector-python>=1.0.0,<10.0.0
+protobuf>=3.20.2 # not directly required, pinned by Snyk to avoid a vulnerability
